@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "viva-core",
+	"version": "${version}",
+	"name": "Viva Core",
+	"description": "A Minecraft experiment.",
+	"authors": [
+		"TekMike365"
+	],
+	"contact": {
+		"homepage": "https://github.com/TekMike365/Viva-Core",
+		"sources": "https://github.com/TekMike365/Viva-Core"
+	},
+	"license": "MIT",
+	"icon": "assets/viva-core/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"tekmike365.vivacore.VivaCore"
+		],
+		"fabric-datagen": [
+			"tekmike365.vivacore.VivaCoreDataGenerator"
+		]
+	},
+	"mixins": [
+		"viva-core.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.12",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
