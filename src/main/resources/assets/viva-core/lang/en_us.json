@@ -1,3 +1,4 @@
 {
-    "tekmike365.viva-core.living_block": "Living Block"
+    "block.viva-core.living_block": "Living Block",
+    "item.viva-core.debug_twig": "Debug Twig"
 }

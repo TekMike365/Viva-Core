@@ -1,3 +1,5 @@
 // 1.21.5	-999999999-01-01T00:00:00	Viva Core/Model Definitions
 097e2e395e9f571a1fc65445879391fdc9230fcc assets/viva-core/blockstates/living_block.json
+b2df4dc7ecbef52346ae0bd6e91f07ce1d7fab61 assets/viva-core/items/debug_twig.json
 07285b5fd87a43129c1303eb45d6b51b2505a72b assets/viva-core/models/block/living_block.json
+26417bf0538242c8de18cf9c5c913fddf171f49c assets/viva-core/models/item/debug_twig.json

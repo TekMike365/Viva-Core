@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "viva-core:item/debug_twig"
+  }
+}
