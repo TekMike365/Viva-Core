@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "viva-core:block/living_block"
+    }
+  }
+}

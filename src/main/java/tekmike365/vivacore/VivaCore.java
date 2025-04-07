@@ -1,6 +1,7 @@
 package tekmike365.vivacore;
 
 import net.fabricmc.api.ModInitializer;
+import tekmike365.vivacore.block.ModBlocks;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,7 +12,7 @@ public class VivaCore implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModBlocks.initialise();
 	}
 
 }
